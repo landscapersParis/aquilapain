@@ -1,0 +1,15 @@
+{
+  "name": "painquilla",
+  "version": "1.0.0",
+  "description": "A world of pain",
+  "main": "index.html",
+  "repository": "https://gihub.com/landscapersparis/aquilapain.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pain"
+  ],
+  "author": "lpchamps",
+  "license": "ISC"
+}
